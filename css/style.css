@@ -1463,7 +1463,7 @@ p {
 .img-land {
   margin-top: -2em;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
   .img-land {
     margin-top: 2em;
     width: 100%;
