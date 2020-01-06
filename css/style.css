@@ -1466,7 +1466,7 @@ p {
 }
 @media screen and (max-width: 800px) {
   .img-land {
-    margin-top: -5em;
+    margin-top: 0em;
     width: 100%;
   }
   .fh5co-main-nav {
