@@ -477,6 +477,7 @@ p {
   color: #a99c92;
 }
 #fh5co-about .fh5co-text p span.firstcharacter {
+  text-align: justify;
   float: left;
   color: #903;
   font-size: 75px;
@@ -1461,11 +1462,11 @@ p {
 }
 
 .img-land {
-  margin-top: -2em;
+  margin-top: -10em;
 }
 @media screen and (max-width: 800px) {
   .img-land {
-    margin-top: 2em;
+    margin-top: -5em;
     width: 100%;
   }
   .fh5co-main-nav {
@@ -1476,4 +1477,9 @@ p {
   height: 0.5em;
   background-color: white;
 }
+h2 p .firstcharacter
+{
+  text-align: justify-all;
+}
+
 /*# sourceMappingURL=style.css.map */
